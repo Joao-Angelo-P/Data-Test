@@ -34,8 +34,8 @@ Randles-Sevcik:
 Créditos e para <a href="http://www.riidfcm-cyted.fq.edu.uy/archivos/Curso_Tecnicas_aplicadas_al_desarrollo_de_metalofarmacos/presentaciones_clases/Voltametria.pdf#:~:text=A%20voltametria%20c%C3%ADclica%20compreende%20um%20grupo%20de%20m%C3%A9todos,eletrodo%20de%20trabalho%2C%20atrav%C3%A9s%20do%20uso%20de%20microeletrodos.">saber mais</a> 
 
 <h2>Código-Fonte e arquivos</h2>
-<p>Os arquivos são descritos da seguinte forma: <strong>AA(Ácido Ascórbico)(número de até quatro dígitos)(microlitro(μL/10<sup>-6</sup>L)).csv</strong></p> 
-Vamos para parte da linguagem Python ou o programa: 
-Primeiramente, vamos ver o arquivo principal "molde.py":
+<p>Os arquivos são descritos da seguinte forma: <strong>AA(Ácido Ascórbico)(número de até quatro dígitos)(microlitro(μL/10<sup>-6</sup>L)).csv</strong></p>
+Porém, têm que haver umas modificações que é substituir ";" que é o separador de dados no arquivo ".csv(Comma separeted Values)" por ",". A razão dessa modificação é que o pacote pandas e a própria linguagem têm problema com esse separador mais não é só isso até porque pandas.read_csv(delimiter=";") resolveria. Mas há também que modificar os números decimais que usualmente usamos a vírgula, por isso, troco "," por "." para a linguagem(Python) trabalhar como tipo número decimal(float()). Tudo isso está no "molde.py" que apresento abaixo:
+
 import pandas as pd
 import matplotlib.pyplot as plt
