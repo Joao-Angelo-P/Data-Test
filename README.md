@@ -31,4 +31,4 @@ Randles-Sevcik:
 </article>
 
 
-Créditos e para <a href="http://www.riidfcmcyted.fq.edu.uy/archivos/Curso_Tecnicas_aplicadas_al_desarrollo_de_metalofarmacos/presentaciones_clases/Voltametria.pdf#:~:text=A%20voltametria%20c%C3%Aclica%20compreende%20um%20grupo%20de%20m%C3%A9todos,eletrodo%20de%20trabalho%2C%20atrav%C3%A9s%20do%20uso%20de%20microeletrodos">saber mais</a> 
+Créditos e para <a href="http://www.riidfcm-cyted.fq.edu.uy/archivos/Curso_Tecnicas_aplicadas_al_desarrollo_de_metalofarmacos/presentaciones_clases/Voltametria.pdf#:~:text=A%20voltametria%20c%C3%ADclica%20compreende%20um%20grupo%20de%20m%C3%A9todos,eletrodo%20de%20trabalho%2C%20atrav%C3%A9s%20do%20uso%20de%20microeletrodos.">saber mais</a> 
