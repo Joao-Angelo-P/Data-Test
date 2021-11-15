@@ -35,7 +35,8 @@ Créditos e para <a href="http://www.riidfcm-cyted.fq.edu.uy/archivos/Curso_Tecn
 
 <h2>Código-Fonte e arquivos</h2>
 <p>Os arquivos são descritos da seguinte forma: <strong>AA(Ácido Ascórbico)(número de até quatro dígitos)(microlitro(μL/10<sup>-6</sup>L)).csv</strong></p>
-Porém, têm que haver umas modificações que é substituir ";" que é o separador de dados no arquivo ".csv(Comma separeted Values)" por ",". A razão dessa modificação é que o pacote pandas e a própria linguagem têm problema com esse separador mais não é só isso até porque pandas.read_csv(delimiter=";") resolveria. Mas há também que modificar os números decimais que usualmente usamos a vírgula, por isso, troco "," por "." para a linguagem(Python) trabalhar como tipo número decimal(float()). Tudo isso está no "molde.py" que apresento abaixo:
-
-import pandas as pd
-import matplotlib.pyplot as plt
+Porém, têm que haver umas modificações, substituir ";" que é o separador de dados no arquivo ".csv(Comma separeted Values)" por ",". A razão dessa modificação é que o pacote pandas e a própria linguagem têm problema com esse separador mais não é só isso até porque pandas.read_csv(delimiter=";") resolveria. Mas há também que modificar os números decimais que usualmente usamos a vírgula, por isso, troco "," por "." para a linguagem(Python) trabalhar como tipo número decimal(float()). Tudo isso está no "molde.py" que apresento abaixo:
+<div>
+<p>import pandas as pd</p>
+<p>import matplotlib.pyplot as plt</p>
+</div>
