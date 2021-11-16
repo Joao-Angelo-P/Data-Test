@@ -1,4 +1,4 @@
-# Data-Test (Rascunho)
+# Data-Test 
 <h2>Olá, Seja Bem-Vindo!</h2>
 <p>Este é meu codigo-fonte para se aplicar a uma base de dados de voltametria
 ciclica. Os dados apresentados aqui são livres para se baixar foi para se 
@@ -50,7 +50,7 @@ pip install matplotlib
   
 ```
   
-<li>Próximo passo é dar dos cliques no arquivo "gerar_grafico.py"</li>
+<li>Próximo passo é dar dos cliques no arquivo "gerar_graficos.py"</li>
   
   
 </ul>
