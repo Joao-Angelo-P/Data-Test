@@ -55,5 +55,5 @@ pip install matplotlib
   
 </ul>
 
-<p>Se abrirá a janela esperando os comandos, e pronto!</p>
+<p>Abrirá uma janela esperando os comandos, e pronto!</p>
 <strong>Sinta-se a vontade para enviar sugestões, dúvidas ou até mesmo críticas.</strong>
