@@ -1,7 +1,7 @@
 # Data-Test 
 <h2>Olá, Seja Bem-Vindo!</h2>
 <p>Este é meu codigo-fonte para se aplicar a uma base de dados de voltametria
-ciclica. Os dados apresentados aqui são livres para se baixar foi para se 
+ciclica. Os dados apresentados aqui são livres para se baixar, foi feito para se 
 dedectar Ácido Ascórbico de um efervescente de vitamina C daqui em diante chamarei de AA.</p>
 <article>
   <h2>O que seria voltametria cíclica?</h2>
